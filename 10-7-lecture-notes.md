@@ -3,6 +3,7 @@
 * Variance and covariance
 * uncorrelated and correlated RVs
 * relation to statistical independence
+
 ___
 
 ### Variance
